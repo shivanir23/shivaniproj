@@ -1,7 +1,7 @@
 AIM-
 Develop colour sensor with the help of RGB led and ldr.
 
-COMPONENTS REQUIRED
+COMPONENTS REQUIRED-
 Arduino,
 RGB LED,
 Photoresistor,
@@ -35,5 +35,5 @@ The reflected light from the emitter (RGB) LED bouncing back off of any objects 
 
  Last two wirings are all parallel because a voltage divider is made to get the changing voltage reading as the reflected light changes in intensity.
  
- RESULT:
+ RESULT-
  Hence light sensor is made with the hel of ldr sensor and rgb led with appopriate microcontroller.
