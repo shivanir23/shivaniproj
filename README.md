@@ -2,12 +2,12 @@ AIM-
 Develop colour sensor with the help of RGB led and ldr.
 
 COMPONENTS REQUIRED
-Arduino
-RGB LED
-Photoresistor
-10kΩ resistor
-3x 100Ω Resistor
-Jumper
+Arduino,
+RGB LED,
+Photoresistor,
+10kΩ resistor,
+3x 100Ω Resistor,
+Jumper,
 Breadboard wires
 
 PROCEDURE-
